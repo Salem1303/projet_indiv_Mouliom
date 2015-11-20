@@ -4,5 +4,6 @@ public class first_shot {
     public static void main(String[] args){
         JFrame fenetre = new JFrame();
         fenetre.setVisible(true);
+        fenetre.setSize(400, 100);
     }
 }
